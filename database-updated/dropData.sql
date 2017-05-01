@@ -1,0 +1,10 @@
+DROP TABLE customer_artwork;
+DROP TABLE customer_design CASCADE;
+DROP TABLE customer_preferences;
+DROP TABLE customer_product_details;
+DROP TABLE customer CASCADE;
+DROP TABLE design_template CASCADE;
+DROP TABLE product_options;
+DROP TABLE product_category;
+DROP TABLE product;
+DROP TABLE "Order";
